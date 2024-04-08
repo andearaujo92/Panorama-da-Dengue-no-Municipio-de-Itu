@@ -1,6 +1,9 @@
 # Panorama da Dengue no Município de Itu
 Devido ao forte aumento dos casos de dengue da minha cidade e da falta de informação por parte da Prefeitura, decidi conduzir meu estudo sobre os casos.
 
+![2151365300](https://github.com/andearaujo92/Panorama-da-Dengue-no-Municipio-de-Itu/assets/67132495/9822a728-d2d9-4945-b8e1-3deb6cb9ff27)    
+fonte: freepik
+
 # Como está a evolução dos casos de dengue em Itú desde 2023 até os dias atuais?
 Desde a primeira semana de 2024 os casos de Dengue em Itu dispararam e não se sabe o motivo, como podemos ver no gráfico abaixo onde temos o ano acompanhado da semana do ano:
 
